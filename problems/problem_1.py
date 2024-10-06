@@ -14,4 +14,3 @@ class Problem1:
 if __name__ == "__main__":
     app: Problem1 = Problem1()
     app.sum_of_multiples()
-
